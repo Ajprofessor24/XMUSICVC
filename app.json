@@ -1,7 +1,7 @@
 {
-    "name": "Adarsh Music Player",
+    "name": "Sarif Azam Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/Adarshtiwari1305/MUSICVC",
+    "repository": "https://github.com/Ajprofessor24/MUSICVC",
     "logo": "https://github.com/Adarshtiwari1305/MUSICVC/main/theme/logo.png",
     "stack": "container",
     "keywords": [
